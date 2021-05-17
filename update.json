@@ -1,0 +1,15 @@
+{
+  "versionCode": 92,
+  "versionName": "1.7.0.8",
+  "fileName": "JL-Iniche-1.7.0.8-release.apk",
+  "fileMd5": "3F4BE0CFB3D825D66D7DA8C8C22E6148",
+  "downloadUrl": "https://chedanxiong.coding.net/p/jl-iniche/d/JL-Iniche/git/raw/master/JL-Iniche-1.7.0.8-release.apk",
+  "changeLog": [
+    "1. 由于某些原因GitHub无法正常访问，而镜像站也存在数据滞后、不够稳定的情况，本次更新主要是将地址转换到国内服务器，以便于为大家提供更好的服务。",
+    "2. 修复更新弹窗点击确定时软件闪退的BUG",
+    "",
+    "注: 本次安装包大小为5.3MB, 使用移动数据请注意流量消耗",
+    "注: 如果点击确定出现闪退, 先进入小众网随便下载一个游戏再检查更新即可.",
+    "注: 小众网官网地址: https://iniche.cn"
+  ]
+}
