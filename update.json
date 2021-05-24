@@ -1,16 +1,18 @@
 {
-  "versionCode": 91,
-  "versionName": "1.7.0.9",
-  "fileName": "JL-Iniche-1.7.0.9-release.apk",
-  "fileMd5": "681E2F59092BA9FD8FDF62B25C60E466",
+  "versionCode": 92,
+  "versionName": "1.7.0.10",
+  "fileName": "JL-Iniche-1.7.0.10-release.apk",
+  "fileMd5": "CB297FE648A0782DB21CB79D15414229",
   "fileSize": "5.3MB",
-  "downloadUrl": "https://chedanxiong.coding.net/p/jl-iniche/d/JL-Iniche/git/raw/master/JL-Iniche-1.7.0.9-release.apk",
+  "downloadUrl": "https://chedanxiong.coding.net/p/jl-iniche/d/JL-Iniche/git/raw/master/JL-Iniche-1.7.0.10-release.apk",
   "changeLog": [
-    "1. [重磅更新] 支持将游戏运行时间上传到小众网，玩家可以在小众网个人资料中查看游戏记录。",
-    "2. 置顶显示上次运行的游戏与运行的时间。",
+    "1. 【辅助功能】增加摇一摇截图，双指下划手势截图。",
+    "2. 【辅助功能】增加编辑虚拟按键的时候双击屏幕快速保存按键布局的手势。",
+    "3. 【辅助功能】增加攻略查找功能，在游戏列表长按、在游戏界面菜单中点击游戏攻略即可根据游戏名字进行百度攻略搜索。由于攻略较少，该功能默认关闭，有需要的可以进入设置-辅助功能中开启",
     "",
-    "注: 本次安装包大小为5.3MB, 使用移动数据请注意流量消耗",
-    "注: 如果点击确定出现闪退, 先进入小众网随便下载一个游戏再检查更新即可.",
-    "注: 小众网官网地址: https://iniche.cn"
+    "注：本次更新由于功能需要, 对数据库进行了升级, 如果首次启动列表中没有游戏的话, 请手动下拉刷新一次即可",
+    "注：由于升级了数据库, 如果工作目录和J2ME-Loader共存时, 运行新版将会导致J2ME-Loader无法显示游戏列表, 升级之前请转移数据(干嘛不直接就用JL-Iniche呢？)",
+    "注：如果点击确定出现闪退, 先进入小众网随便下载一个游戏再检查更新即可.",
+    "注： 小众网官网地址: https://iniche.cn"
   ]
 }
