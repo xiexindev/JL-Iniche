@@ -1,3 +1,7 @@
+### **!!!注意!!!**  
+**本程序修改了一些设置. 可能无法与原版的“J2ME-Loader”兼容。请勿将本程序的工作目录设置到“J2ME-Loader”工作目录**  
+
+
 # JL-Iniche
 
 This project is a fork of [J2ME-Loader](https://github.com/nikita36078/J2ME-Loader).
